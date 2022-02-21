@@ -1,0 +1,16 @@
+.registration-form {
+    background: #f7f7f7;
+    padding: 20px;
+
+    margin: 100px 0px;
+}
+
+.err-msg {
+    color: red;
+}
+
+.registration-form form {
+    border: 1px solid #e8e8e8;
+    padding: 10px;
+    background: #f3f3f3;
+}
